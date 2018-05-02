@@ -2,7 +2,7 @@ var discord = require("discord.js");
 
 var bot = new discord.Client();
 
-bot.login("Mjc4NzQwNTU3OTU2Nzc1OTM3.C3wxIw.CfjXVZIcb0DBvIiLCq72YRoeoIM");
+bot.login();
 
 
 function randomInt(min,max)
